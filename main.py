@@ -2,7 +2,7 @@ from fastapi import FastAPI, Form
 from fastapi.middleware.cors import CORSMiddleware
 import openai
 
-openai.api_key = "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"
+
 
 app = FastAPI()
 
